@@ -30,7 +30,7 @@
 <div class="header " id="top-header">
 
  <div class="aman">
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
     <div class="container text-uppercase p-2">
         <div class="logo">
                     <img src="images/deselogo.jpg">
